@@ -4,6 +4,7 @@ backend/pylint_cache
 backend/logs
 backend/package.json
 */__pycache__
+*/app/__pycache__
 frontend/node_modules
 .env
 instructions.md
