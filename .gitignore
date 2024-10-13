@@ -1,0 +1,10 @@
+armada_env
+*/.env
+backend/pylint_cache
+backend/logs
+backend/package.json
+*/__pycache__
+frontend/node_modules
+.env
+instructions.md
+terminal
